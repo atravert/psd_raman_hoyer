@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/matlab/PSD.m" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/matlab/PSD_data_noplot.m" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/matlab/avgXASperiods.m" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/matlab/getPSDdata_increaspingperiods_noplot.m" charset="ISO-8859-1" />
+  </component>
+</project>
